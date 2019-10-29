@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.6)
+cmake_minimum_required(VERSION 3.5)
 project(palindrome VERSION 1.0.0 LANGUAGES CXX)
 
 # Enable testing, but we want to show the output from google test when executing from console, so we
